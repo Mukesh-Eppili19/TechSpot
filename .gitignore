@@ -1,0 +1,69 @@
+HELP.md
+../target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+*.log
+*.log.*
+
+/backend/target
+
+# Intellij IDEA
+.idea/
+
+# dependencies
+**/node_modules
+**/.pnp
+**.pnp.js
+
+# testing
+**/coverage
+
+# production
+**/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+*.class
+backend/src/main/resources/techspot-objectorienters-firebase-adminsdk-bqho2-f5981f1058.json
+backend/src/main/resources/*.json

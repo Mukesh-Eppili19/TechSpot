@@ -85,11 +85,7 @@ Import the schema for the database. It can be found in the backend folder `schem
     docker compose up
     ```
 
-## Credits & Contact
 
-Developed by [Angela Salem](https://github.com/SilverBullet70), [Husam Ramoni](https://github.com/RamHusam111), and [Yousef Albandak](https://github.com/YousefBandak) for the third-year software engineering project at Bethlehem University.
-
-Contact us: object.orienter@gmail.com
 
 
 ## Pictures Demo
